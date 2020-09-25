@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     perspective: 50rem;
-    perspective-origin: top-right;
+    perspective-origin: top right;
 }
 
 .cube-design {
@@ -26,7 +26,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    opacity: 0.9;
+    opacity: 0.8;
     border: 2px solid #FFF;
 }
 
