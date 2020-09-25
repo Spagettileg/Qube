@@ -58,6 +58,8 @@
 .left {
     /*Ocean Blue*/
     background-color: #3452FE;
+    /*Left cube panel to rotate 90 degrees on the y-axis with movment of 6.25rem on z-axis*/
+    transform: rotateY(90deg) translateZ(6.25rem);
 }
 
 .bottom {
