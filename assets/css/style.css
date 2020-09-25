@@ -30,3 +30,36 @@
     border: 2px solid #FFF;
 }
 
+/*Colour*/
+
+/*Background colour for the cube panels & design to contrast and compliment in a 3-D design model*/
+
+.front {
+    /*Mauve Purple*/
+    background-color: #9900E6;
+}
+
+.back {
+    /*Red*/
+    background-color: #E60000;
+}
+
+.right {
+    /*Royal Blue*/
+    background-color: #008EE6;
+}
+
+.left {
+    /*Ocean Blue*/
+    background-color: #3452FE;
+}
+
+.bottom {
+    /*Teal*/
+    background-color: #00B39B;
+}
+
+.top {
+    /*Lime Green*/
+    background-color: #67E718;
+}
