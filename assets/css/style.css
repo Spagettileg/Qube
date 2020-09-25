@@ -13,3 +13,11 @@
     perspective-origin: top-right;
 }
 
+.cube-design {
+    /*3-D transform preserved on the child element*/
+    position: relative;
+    width: 12.5rem;
+    height: 12.5rem;
+    transform-style: preserve-3d;
+}
+
