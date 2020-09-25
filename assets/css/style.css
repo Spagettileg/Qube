@@ -51,6 +51,8 @@
 .right {
     /*Royal Blue*/
     background-color: #008EE6;
+    /*Right cube panel to rotate 90 degrees on the y-axis with movment of 6.25rem on z-axis*/
+    transform: rotateY(-90deg) translateZ(6.25rem);
 }
 
 .left {
