@@ -37,6 +37,8 @@
 .front {
     /*Mauve Purple*/
     background-color: #9900E6;
+    /*Front panel to move forwards by 6.25rem*/
+    transform: translateZ(6.25rem);
 }
 
 .back {
