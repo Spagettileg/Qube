@@ -72,4 +72,6 @@
 .top {
     /*Lime Green*/
     background-color: #67E718;
+    /*Top cube panel to rotate 90 degrees on the x-axis with movment of 6.25rem on z-axis*/
+    transform: rotateX(90deg) translateZ(6.25rem);
 }
