@@ -44,6 +44,8 @@
 .back {
     /*Red*/
     background-color: #E60000;
+    /*Back cube panel moves backwards by 6.25rem*/
+    transform: translateZ(-6.25rem);
 }
 
 .right {
